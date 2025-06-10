@@ -60,6 +60,7 @@ Acesse o portal do Azure em: [https://portal.azure.com](https://portal.azure.com
 - **Usuário e Senha**: anote as credenciais de acesso
 
 > ![Configurações da VM](images/passo3-configuracoes.png)
+> ![Configurações da VM](images/passo3-1-configuracoes.png)
 
 ---
 

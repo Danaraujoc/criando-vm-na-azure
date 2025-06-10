@@ -75,13 +75,21 @@ Acesse o portal do Azure em: [https://portal.azure.com](https://portal.azure.com
 
 ---
 
-### 5. Acessar a VM via RDP
+### 5. Conclusão
+
+- Após a criação selecione "Ir para o recurso".
+
+> ![Implantação](images/passo5-implantacao.png)
+
+---
+
+### 6. Acessar a VM via RDP
 
 - Após a criação, vá para a VM
 - Clique em **"Conectar"** > **RDP**
 - Baixe o arquivo `.rdp` e acesse com suas credenciais
 
-> ![Acesso RDP](images/passo5-rdp.png)
+> ![Acesso RDP](images/passo6-rdp.png)
 
 ---
 
@@ -103,7 +111,7 @@ Sinta-se à vontade para explorar os passos com base nelas.
 
 ## 👨‍💻 Autor
 
-Desafio realizado por [Seu Nome Aqui] no contexto de estudos da plataforma Microsoft Azure.
+Desafio realizado por [Daniel Araújo] no contexto de estudos da plataforma Microsoft Azure.
 
 ---
 

@@ -58,6 +58,7 @@ Acesse o portal do Azure em: [https://portal.azure.com](https://portal.azure.com
 - **Região**: escolha uma próxima de você  
 - **Tamanho da VM**: escolha de acordo com seu objetivo (por exemplo, B1s)  
 - **Usuário e Senha**: anote as credenciais de acesso
+- **Portas de Entrada**: escolha Permitir portas selecionadas e selecione RDP (3389)
 
 > ![Configurações da VM](images/passo3-configuracoes.png)
 > ![Configurações da VM](images/passo3-1-configuracoes.png)

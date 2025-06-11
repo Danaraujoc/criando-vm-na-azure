@@ -90,6 +90,7 @@ Acesse o portal do Azure em: [https://portal.azure.com](https://portal.azure.com
 - Baixe o arquivo `.rdp` e acesse com suas credenciais
 
 > ![Acesso RDP](images/passo6-rdp.png)
+> ![Acesso RDP](images/passo6-1-rdp.png)
 
 ---
 
